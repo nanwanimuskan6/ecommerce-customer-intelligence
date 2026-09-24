@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="561.630059pt" viewBox="0 0 792 561.630059" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T04:21:42.277056</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 561.630059 
+L 792 561.630059 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 257.76 460.152246 
+L 776.16 460.152246 
+L 776.16 131.832246 
+L 257.76 131.832246 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 257.76 460.152246 
+L 257.76 131.832246 
+" clip-path="url(#p718d0ebac4)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="257.76" y="471.660547" transform="rotate(-0 257.76 471.660547)">£0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 333.761188 460.152246 
+L 333.761188 131.832246 
+" clip-path="url(#p718d0ebac4)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="333.761188" y="471.660547" transform="rotate(-0 333.761188 471.660547)">£1.0M</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 409.762377 460.152246 
+L 409.762377 131.832246 
+" clip-path="url(#p718d0ebac4)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="409.762377" y="471.660547" transform="rotate(-0 409.762377 471.660547)">£2.0M</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 485.763565 460.152246 
+L 485.763565 131.832246 
+" clip-path="url(#p718d0ebac4)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="485.763565" y="471.660547" transform="rotate(-0 485.763565 471.660547)">£3.0M</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 561.764753 460.152246 
+L 561.764753 131.832246 
+" clip-path="url(#p718d0ebac4)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="561.764753" y="471.660547" transform="rotate(-0 561.764753 471.660547)">£4.0M</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 637.765941 460.152246 
+L 637.765941 131.832246 
+" clip-path="url(#p718d0ebac4)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="637.765941" y="471.660547" transform="rotate(-0 637.765941 471.660547)">£5.0M</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 713.76713 460.152246 
+L 713.76713 131.832246 
+" clip-path="url(#p718d0ebac4)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="713.76713" y="471.660547" transform="rotate(-0 713.76713 471.660547)">£6.0M</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="516.96" y="494.118926" transform="rotate(-0 516.96 494.118926)">Gross merchandise purchase revenue</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_15"/>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="254.26" y="439.83356" transform="rotate(-0 254.26 439.83356)">New Customers</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_16"/>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="254.26" y="408.739168" transform="rotate(-0 254.26 408.739168)">Need Attention</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_17"/>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="254.26" y="377.536476" transform="rotate(-0 254.26 377.536476)">Promising</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_18"/>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="254.26" y="346.427534" transform="rotate(-0 254.26 346.427534)">At Risk</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_19"/>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="254.26" y="315.271717" transform="rotate(-0 254.26 315.271717)">Hibernating</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_20"/>
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="254.26" y="284.1159" transform="rotate(-0 254.26 284.1159)">Cannot Lose Them</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_21"/>
+     <g id="text_15">
+      <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="254.26" y="252.960083" transform="rotate(-0 254.26 252.960083)">Lost / Low Value</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_22"/>
+     <g id="text_16">
+      <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="254.26" y="221.804266" transform="rotate(-0 254.26 221.804266)">Potential Loyalists</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_23"/>
+     <g id="text_17">
+      <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="254.26" y="190.648449" transform="rotate(-0 254.26 190.648449)">Loyal Customers</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_24"/>
+     <g id="text_18">
+      <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="254.26" y="159.492632" transform="rotate(-0 254.26 159.492632)">Champions</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 257.76 445.22861 
+L 263.51305 445.22861 
+L 263.51305 427.158236 
+L 257.76 427.158236 
+z
+" clip-path="url(#p718d0ebac4)" style="fill: #aec8ca"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 257.76 414.072793 
+L 267.593674 414.072793 
+L 267.593674 396.002419 
+L 257.76 396.002419 
+z
+" clip-path="url(#p718d0ebac4)" style="fill: #aec8ca"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 257.76 382.916976 
+L 276.689389 382.916976 
+L 276.689389 364.846602 
+L 257.76 364.846602 
+z
+" clip-path="url(#p718d0ebac4)" style="fill: #aec8ca"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 257.76 351.761159 
+L 280.407672 351.761159 
+L 280.407672 333.690785 
+L 257.76 333.690785 
+z
+" clip-path="url(#p718d0ebac4)" style="fill: #aec8ca"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 257.76 320.605342 
+L 280.610518 320.605342 
+L 280.610518 302.534968 
+L 257.76 302.534968 
+z
+" clip-path="url(#p718d0ebac4)" style="fill: #aec8ca"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 257.76 289.449525 
+L 283.634166 289.449525 
+L 283.634166 271.379151 
+L 257.76 271.379151 
+z
+" clip-path="url(#p718d0ebac4)" style="fill: #aec8ca"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 257.76 258.293707 
+L 286.483875 258.293707 
+L 286.483875 240.223334 
+L 257.76 240.223334 
+z
+" clip-path="url(#p718d0ebac4)" style="fill: #aec8ca"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 257.76 227.13789 
+L 301.827039 227.13789 
+L 301.827039 209.067517 
+L 257.76 209.067517 
+z
+" clip-path="url(#p718d0ebac4)" style="fill: #aec8ca"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 257.76 195.982073 
+L 318.71041 195.982073 
+L 318.71041 177.9117 
+L 257.76 177.9117 
+z
+" clip-path="url(#p718d0ebac4)" style="fill: #aec8ca"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 257.76 164.826256 
+L 682.678033 164.826256 
+L 682.678033 146.755882 
+L 257.76 146.755882 
+z
+" clip-path="url(#p718d0ebac4)" style="fill: #157d82"/>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="269.88682" y="438.781313" transform="rotate(-0 269.88682 438.781313)">£76K</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="273.967445" y="407.625496" transform="rotate(-0 273.967445 407.625496)">£129K</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="283.06316" y="376.469679" transform="rotate(-0 283.06316 376.469679)">£249K</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="286.781443" y="345.313862" transform="rotate(-0 286.781443 345.313862)">£298K</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="286.984289" y="314.158045" transform="rotate(-0 286.984289 314.158045)">£301K</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="290.007937" y="283.002228" transform="rotate(-0 290.007937 283.002228)">£340K</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="292.857645" y="251.846411" transform="rotate(-0 292.857645 251.846411)">£378K</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="308.20081" y="220.690594" transform="rotate(-0 308.20081 220.690594)">£580K</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="325.084181" y="189.534777" transform="rotate(-0 325.084181 189.534777)">£802K</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="689.051803" y="158.37896" transform="rotate(-0 689.051803 158.37896)">£5.6M</text>
+   </g>
+  </g>
+  <g id="text_29">
+   <text style="font-weight: 700; font-size: 9px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #157d82" x="15.84" y="22.392246" transform="rotate(-0 15.84 22.392246)">RETAIL INTELLIGENCE  /  CUSTOMER &amp; REVENUE ANALYTICS</text>
+  </g>
+  <g id="text_30">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="15.84" y="59.832246" transform="rotate(-0 15.84 59.832246)">Champions account for most customer revenue</text>
+  </g>
+  <g id="text_31">
+   <text style="font-size: 10.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #607482" x="15.84" y="94.392246" transform="rotate(-0 15.84 94.392246)">Champions contribute 63.94% • gross identified merchandise revenue</text>
+  </g>
+  <g id="text_32">
+   <text style="font-size: 9px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #607482" x="15.84" y="543.672246" transform="rotate(-0 15.84 543.672246)">Source: UCI Online Retail • validated project outputs</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p718d0ebac4">
+   <rect x="257.76" y="131.832246" width="518.4" height="328.32"/>
+  </clipPath>
+ </defs>
+</svg>

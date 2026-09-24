@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="797.145677pt" height="561.630059pt" viewBox="0 0 797.145677 561.630059" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T17:26:18.987442</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 561.630059 
+L 797.145677 561.630059 
+L 797.145677 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 283.68 460.152246 
+L 776.16 460.152246 
+L 776.16 131.832246 
+L 283.68 131.832246 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 354.70192 460.152246 
+L 354.70192 131.832246 
+" clip-path="url(#p9bd1d5c076)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="354.70192" y="471.660547" transform="rotate(-0 354.70192 471.660547)">−0.05</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 458.831023 460.152246 
+L 458.831023 131.832246 
+" clip-path="url(#p9bd1d5c076)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="458.831023" y="471.660547" transform="rotate(-0 458.831023 471.660547)">0.00</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 562.960127 460.152246 
+L 562.960127 131.832246 
+" clip-path="url(#p9bd1d5c076)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="562.960127" y="471.660547" transform="rotate(-0 562.960127 471.660547)">0.05</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 667.08923 460.152246 
+L 667.08923 131.832246 
+" clip-path="url(#p9bd1d5c076)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="667.08923" y="471.660547" transform="rotate(-0 667.08923 471.660547)">0.10</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 771.218334 460.152246 
+L 771.218334 131.832246 
+" clip-path="url(#p9bd1d5c076)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="771.218334" y="471.660547" transform="rotate(-0 771.218334 471.660547)">0.15</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="529.92" y="494.235801" transform="rotate(-0 529.92 494.235801)">Contribution toward / away from repeat prediction • probability</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11"/>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="280.18" y="435.791824" transform="rotate(-0 280.18 435.791824)">Other features</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="280.18" y="401.816031" transform="rotate(-0 280.18 401.816031)">Total Items</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_13"/>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="280.18" y="367.898676" transform="rotate(-0 280.18 367.898676)">Historical Returned Value</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_14"/>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="280.18" y="333.913752" transform="rotate(-0 280.18 333.913752)">Customer Tenure Days</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15"/>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="280.18" y="300.063965" transform="rotate(-0 280.18 300.063965)">Monetary Value</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_16"/>
+     <g id="text_12">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="280.18" y="266.079041" transform="rotate(-0 280.18 266.079041)">Recency Days</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_17"/>
+     <g id="text_13">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="280.18" y="232.229254" transform="rotate(-0 280.18 232.229254)">Missingindicator Median Days Between Purchases</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_18"/>
+     <g id="text_14">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="280.18" y="198.311899" transform="rotate(-0 280.18 198.311899)">Missingindicator Average Days Between Purchases</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_19"/>
+     <g id="text_15">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="280.18" y="164.394543" transform="rotate(-0 280.18 164.394543)">Purchase Frequency</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 458.831023 445.22861 
+L 447.789233 445.22861 
+L 447.789233 418.094725 
+L 458.831023 418.094725 
+z
+" clip-path="url(#p9bd1d5c076)" style="fill: #b65b52"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 458.831023 411.311254 
+L 483.259591 411.311254 
+L 483.259591 384.17737 
+L 458.831023 384.17737 
+z
+" clip-path="url(#p9bd1d5c076)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 458.831023 377.393899 
+L 486.91193 377.393899 
+L 486.91193 350.260015 
+L 458.831023 350.260015 
+z
+" clip-path="url(#p9bd1d5c076)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 458.831023 343.476544 
+L 430.348545 343.476544 
+L 430.348545 316.342659 
+L 458.831023 316.342659 
+z
+" clip-path="url(#p9bd1d5c076)" style="fill: #b65b52"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 458.831023 309.559188 
+L 548.978743 309.559188 
+L 548.978743 282.425304 
+L 458.831023 282.425304 
+z
+" clip-path="url(#p9bd1d5c076)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 458.831023 275.641833 
+L 306.065455 275.641833 
+L 306.065455 248.507949 
+L 458.831023 248.507949 
+z
+" clip-path="url(#p9bd1d5c076)" style="fill: #b65b52"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 458.831023 241.724477 
+L 618.19925 241.724477 
+L 618.19925 214.590593 
+L 458.831023 214.590593 
+z
+" clip-path="url(#p9bd1d5c076)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 458.831023 207.807122 
+L 618.659827 207.807122 
+L 618.659827 180.673238 
+L 458.831023 180.673238 
+z
+" clip-path="url(#p9bd1d5c076)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 458.831023 173.889767 
+L 753.774545 173.889767 
+L 753.774545 146.755882 
+L 458.831023 146.755882 
+z
+" clip-path="url(#p9bd1d5c076)" style="fill: #157d82"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 458.831023 460.152246 
+L 458.831023 131.832246 
+" clip-path="url(#p9bd1d5c076)" style="fill: none; stroke: #607482; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 9px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #157d82" x="15.84" y="22.392246" transform="rotate(-0 15.84 22.392246)">RETAIL INTELLIGENCE  /  CUSTOMER &amp; REVENUE ANALYTICS</text>
+  </g>
+  <g id="text_17">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="15.84" y="59.832246" transform="rotate(-0 15.84 59.832246)">Model explanation: borderline customer</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 10.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #607482" x="15.84" y="94.392246" transform="rotate(-0 15.84 94.392246)">Random Forest • raw repeat probability 73.7% • baseline 0.466 (probability)</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 9px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #607482" x="15.84" y="543.672246" transform="rotate(-0 15.84 543.672246)">Signed contributions drive this model prediction; they do not establish causal effects.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9bd1d5c076">
+   <rect x="283.68" y="131.832246" width="492.48" height="328.32"/>
+  </clipPath>
+ </defs>
+</svg>

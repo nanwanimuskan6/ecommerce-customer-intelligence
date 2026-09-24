@@ -1,0 +1,6 @@
+# Initial dependencies: tabular data and Excel workbook reading only.
+pandas
+openpyxl
+
+# Phase 3 static figures
+matplotlib

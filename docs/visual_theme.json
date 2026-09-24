@@ -1,0 +1,16 @@
+{
+  "ink": "#172D3B",
+  "muted": "#607482",
+  "primary": "#157D82",
+  "secondary": "#476780",
+  "highlight": "#B67B27",
+  "negative": "#B65B52",
+  "soft": "#AEC8CA",
+  "grid": "#E7ECEF",
+  "background": "#FFFFFF",
+  "font_family": [
+    "Segoe UI",
+    "DejaVu Sans"
+  ],
+  "export_dpi": 300
+}

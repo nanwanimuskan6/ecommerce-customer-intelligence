@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="561.406289pt" viewBox="0 0 792 561.406289" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T17:26:13.895200</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 561.406289 
+L 792 561.406289 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 275.04 460.152246 
+L 776.16 460.152246 
+L 776.16 131.832246 
+L 275.04 131.832246 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 275.04 460.152246 
+L 275.04 131.832246 
+" clip-path="url(#p26cf549f93)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="275.04" y="471.660547" transform="rotate(-0 275.04 471.660547)">0.00</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 343.451657 460.152246 
+L 343.451657 131.832246 
+" clip-path="url(#p26cf549f93)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="343.451657" y="471.660547" transform="rotate(-0 343.451657 471.660547)">0.01</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 411.863313 460.152246 
+L 411.863313 131.832246 
+" clip-path="url(#p26cf549f93)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="411.863313" y="471.660547" transform="rotate(-0 411.863313 471.660547)">0.02</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 480.27497 460.152246 
+L 480.27497 131.832246 
+" clip-path="url(#p26cf549f93)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="480.27497" y="471.660547" transform="rotate(-0 480.27497 471.660547)">0.03</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 548.686627 460.152246 
+L 548.686627 131.832246 
+" clip-path="url(#p26cf549f93)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="548.686627" y="471.660547" transform="rotate(-0 548.686627 471.660547)">0.04</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 617.098283 460.152246 
+L 617.098283 131.832246 
+" clip-path="url(#p26cf549f93)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="617.098283" y="471.660547" transform="rotate(-0 617.098283 471.660547)">0.05</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 685.50994 460.152246 
+L 685.50994 131.832246 
+" clip-path="url(#p26cf549f93)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="685.50994" y="471.660547" transform="rotate(-0 685.50994 471.660547)">0.06</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 753.921597 460.152246 
+L 753.921597 131.832246 
+" clip-path="url(#p26cf549f93)" style="fill: none; stroke: #e7ecef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="753.921597" y="471.660547" transform="rotate(-0 753.921597 471.660547)">0.07</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #607482" x="525.6" y="494.387051" transform="rotate(-0 525.6 494.387051)">Mean |SHAP value| • probability</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_17"/>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="439.182609" transform="rotate(-0 271.54 439.182609)">Historical Returned Value</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_18"/>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="413.88831" transform="rotate(-0 271.54 413.88831)">Average Days Between Purchases</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_19"/>
+     <g id="text_12">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="388.594011" transform="rotate(-0 271.54 388.594011)">Median Order Value</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_20"/>
+     <g id="text_13">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="363.299712" transform="rotate(-0 271.54 363.299712)">Average Order Value</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_21"/>
+     <g id="text_14">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="338.005413" transform="rotate(-0 271.54 338.005413)">Average Items Per Order</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_22"/>
+     <g id="text_15">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="312.711114" transform="rotate(-0 271.54 312.711114)">Total Items</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_23"/>
+     <g id="text_16">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="287.349247" transform="rotate(-0 271.54 287.349247)">Customer Tenure Days</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_24"/>
+     <g id="text_17">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="262.054948" transform="rotate(-0 271.54 262.054948)">Recency Days</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_25"/>
+     <g id="text_18">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="236.828218" transform="rotate(-0 271.54 236.828218)">Monetary Value</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_26"/>
+     <g id="text_19">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="211.533919" transform="rotate(-0 271.54 211.533919)">Missing: Median Days Between Purchases</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_27"/>
+     <g id="text_20">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="186.23962" transform="rotate(-0 271.54 186.23962)">Missing: Average Days Between Purchases</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_28"/>
+     <g id="text_21">
+      <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #607482" x="271.54" y="160.945321" transform="rotate(-0 271.54 160.945321)">Purchase Frequency</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 275.04 445.22861 
+L 319.810002 445.22861 
+L 319.810002 424.993171 
+L 275.04 424.993171 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 275.04 419.934311 
+L 328.624879 419.934311 
+L 328.624879 399.698872 
+L 275.04 399.698872 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 275.04 394.640012 
+L 330.365145 394.640012 
+L 330.365145 374.404573 
+L 275.04 374.404573 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 275.04 369.345713 
+L 331.545823 369.345713 
+L 331.545823 349.110274 
+L 275.04 349.110274 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 275.04 344.051414 
+L 339.062348 344.051414 
+L 339.062348 323.815975 
+L 275.04 323.815975 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 275.04 318.757115 
+L 348.755121 318.757115 
+L 348.755121 298.521676 
+L 275.04 298.521676 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 275.04 293.462816 
+L 393.377896 293.462816 
+L 393.377896 273.227377 
+L 275.04 273.227377 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 275.04 268.168517 
+L 437.456604 268.168517 
+L 437.456604 247.933078 
+L 275.04 247.933078 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 275.04 242.874218 
+L 521.338608 242.874218 
+L 521.338608 222.638779 
+L 275.04 222.638779 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 275.04 217.579919 
+L 639.494951 217.579919 
+L 639.494951 197.34448 
+L 275.04 197.34448 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 275.04 192.285621 
+L 640.431385 192.285621 
+L 640.431385 172.050181 
+L 275.04 172.050181 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 275.04 166.991322 
+L 752.297143 166.991322 
+L 752.297143 146.755882 
+L 275.04 146.755882 
+z
+" clip-path="url(#p26cf549f93)" style="fill: #157d82"/>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 9px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #157d82" x="15.84" y="22.392246" transform="rotate(-0 15.84 22.392246)">RETAIL INTELLIGENCE  /  CUSTOMER &amp; REVENUE ANALYTICS</text>
+  </g>
+  <g id="text_23">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #172d3b" x="15.84" y="59.832246" transform="rotate(-0 15.84 59.832246)">Features driving the tree model's predictions</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 10.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #607482" x="15.84" y="94.392246" transform="rotate(-0 15.84 94.392246)">Random Forest • mean absolute SHAP contribution on observed test snapshots</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 9px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #607482" x="15.84" y="543.672246" transform="rotate(-0 15.84 543.672246)">Associations within the model, not causal reasons for customer behavior.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p26cf549f93">
+   <rect x="275.04" y="131.832246" width="501.12" height="328.32"/>
+  </clipPath>
+ </defs>
+</svg>
